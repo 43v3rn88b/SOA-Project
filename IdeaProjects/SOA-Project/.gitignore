@@ -1,0 +1,28 @@
+# --- Maven ---
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources/**/target/
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# --- Eclipse (Just in case) ---
+.classpath
+.project
+.settings/
+bin/
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Spring Boot ---
+help.md

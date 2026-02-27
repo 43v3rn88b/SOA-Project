@@ -1,0 +1,4 @@
+<parent>
+    <groupId>com.example.soa</groupId> <artifactId>soa-parent-project</artifactId>
+    <version>1.0.0</version>
+    <relativePath>../pom.xml</relativePath> </parent>
